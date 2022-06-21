@@ -16,8 +16,8 @@ span {
 
 h1 {
     font-family: 'Sacramento', cursive;
-    font-size: 90px;
-    margin: 50px auto 0 auto;
+    font-size: 562.5%;
+    margin: 312.5% auto 0 auto;
     color:#174747;
     
 }
@@ -30,12 +30,12 @@ h2 {
     font-size: 2.5rem;
     color:#075d60;
     font-weight: normal;
-    padding: 30px;
+    padding: 187.5%;
 }
 
 p {
     line-height: 2;
-    margin-bottom: 50px;
+    margin-bottom: 312.5%;
 }
 
 label {
@@ -43,10 +43,10 @@ label {
 }
 
 hr {
-    border: dotted #40514E 5px;
+    border: dotted #40514E 31.25%;
     border-bottom: none;
     width:4%;
-    margin :100px auto;
+    margin :625% auto;
 }
 
 
@@ -60,7 +60,7 @@ h3 {
 a {
     color:#075d60;
     font-family: 'Montserrat' sans-serif;
-    margin:10px 20px;
+    margin:62.5% 125%;
     text-decoration: none;
 
 }
@@ -72,11 +72,11 @@ a:hover {
 
 
 button{
-    padding: 10px 20px 10px 20px;
+    padding: 62.5% 125% 62.5% 125% ;
     border-radius: 8px;
     background: linear-gradient(to bottom, #11cdd4, #11999E);
     color:whitesmoke;
-    font-size: 20px;
+    font-size: 125%;
     text-decoration: none;
     font-family: 'Montserrat', sans-serif;
 }
